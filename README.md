@@ -25,7 +25,7 @@ How to use this module read here :- https://alexwlchan.net/2016/11/you-should-us
 #### Description:-
 This is the main part of the Automate program folder this is the part where the user will start the connection,register,enter the contents and  send the email. I used the for loop to send the email to multiple people
 
-### imagedownload.py
+### imagesdownload.py
 
 I used this script to download google images in bulk without me having to manually download them 
 
