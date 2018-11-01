@@ -38,4 +38,4 @@ The images which were downloaded were named with different names and I wanted to
 
 
 ### motivational-quotes-
-The folder with images i downloaded
+The folder with the images I downloaded
