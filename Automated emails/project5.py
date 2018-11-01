@@ -4,7 +4,7 @@ import xlrd # this will help us in opening the excel spreadsheet
 loc = 'C:/Users/ram2510/Desktop/python/automation/Contact Information (Responses).xlsx'
 wb = xlrd.open_workbook(loc) # this will initialise the workbook
 sheet = wb.sheet_by_index(0) # this will initialise the rows column
-for current_num in range(1,16): # this loop will help with the printing
+for current_num in range(1,16): # this loop will help with sending email to different people
     receiver_address = sheet.cell_value(current_num,0) # sheet.cell_value(rows,columns)
     receiver_name = sheet.cell_value(current_num,1) # sheet.cell_value
     passcode = keyring.get_password('yagmail','r2025ps@gmail.com') # this will assign my password to passcode variable
