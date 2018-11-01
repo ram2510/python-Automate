@@ -8,7 +8,7 @@ To download python :- https://www.python.org/downloads/
 
 ## Automated emails
 What I wanted to do was automate the task of sending email with same content(body,subject) to more than one people and with a image as a attachment so i created 3 programs for this task.
-
+Please rember to change the directory according to your pwd if you use my code
 ### project5.py
 (This was my project no 5 hence the name)
 
@@ -35,3 +35,7 @@ How to use this module please read here:-https://github.com/hardikvasa/google-im
 
 ### filerename.py
 The images which were downloaded were named with different names and I wanted to rename them. For this I used the os module of python(it comes pre installed with python). I renamed all the images in a order so that I can use it in the for loop   
+
+
+### motivational-quotes-
+The folder with images i downloaded
