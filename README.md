@@ -10,7 +10,7 @@ To download python :- https://www.python.org/downloads/
 What I wanted to do was automate the task of sending email with same content(body,subject) tomore than one people and with a image as a attachment so i created 3 programs for this task.
 
 ### project5.py
-(This was my project no 5 5 hence the name)
+(This was my project no 5 hence the name)
 
 #### Important modules to download:-
 1)yagmail:-
