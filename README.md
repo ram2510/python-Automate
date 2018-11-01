@@ -17,7 +17,7 @@ What I wanted to do was automate the task of sending email with same content(bod
 This will help you in automating the email sending procedure just type * pip install yagmail * to install the python module
 
 
-2) keyring:-
+2)keyring:-
 This helped me with saving my gmail password. You can use this with any website you want to store the password. I used this so that I would'nt have to display my passcode for my account when i upload it the code on GitHub. Just type * pip install keyring * to download this module
 
 How to use this module read here :- https://alexwlchan.net/2016/11/you-should-use-keyring/
