@@ -7,7 +7,7 @@ I made all of my projects using python3, it will be replaced in the future by it
 To download python :- https://www.python.org/downloads/
 
 ## Automated emails
-What I wanted to do was automate the task of sending email with same content(body,subject) to more than one people and with a image as a attachment so i created 3 programs for this task.
+What I wanted to do was automate the task of sending email with same content(body,subject) to more than one people and with a image as an attachment so  I created 3 programs for this task.
 Please remember to change the directory according to your pwd if you use my code as i have the source variable set to my directory
 I used a for loop to loop through the data stored in the excel sheet which I collected from google forms. I created a goole form which asks the user to input their name and email address.
 ### project5.py
